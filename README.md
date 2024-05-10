@@ -2,8 +2,8 @@
 最近给大家手撸了一个基于 Springboot+Vue前后端分离的 【美食分享网站】，系统代码全部原创，并提供带敲视频和笔记
 
 # 项目在线体验地址
-体验地址（请电脑端浏览器访问）：[http://101.35.218.50:83/](http://101.35.218.50:83/)
-管理员账号：admin admin
+体验地址（请电脑端浏览器访问）：[http://101.35.218.50:83/](http://101.35.218.50:83/)  
+管理员账号：admin admin  
 用户账号： aaa 123
 
 # B站带做视频教程
@@ -11,14 +11,14 @@
 [https://www.bilibili.com/video/BV1NG411r7ha/](https://www.bilibili.com/video/BV1NG411r7ha/)
 
 # 技术栈
-前后端分离
-后端：Springboot2 + Mybatis
-前端：Vue2 + ElementUI + Axios
+前后端分离  
+后端：Springboot2 + Mybatis  
+前端：Vue2 + ElementUI + Axios  
 数据库： MySQL
 
 # 项目功能描述
 **普通用户**
-登录、注册
+登录、注册  
 首页：轮播图、浏览每日精选菜谱、浏览美食日记、浏览商城商品
 菜谱：浏览分类菜谱列表、菜谱详情、可收藏、可评论
 笔记：浏览笔记列表、笔记详情、可点赞、可收藏、可评论
